@@ -40,4 +40,3 @@ I'm Aishwarya Joshi, a deaf aspiring data analyst with a passion for accessibili
 ## 🔗 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-joshi)
 - 📧 Email: aishujoshi951@gmial.com
-- 📂 [Resume (PDF)](https://github.com/Aishu2468/Aishwarya_Joshi_Resume_2025.pdf)
